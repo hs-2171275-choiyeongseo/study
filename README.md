@@ -1,2 +1,2 @@
-# -study
+# study
 test repo github study
